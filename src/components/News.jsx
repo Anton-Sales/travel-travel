@@ -18,7 +18,7 @@ export default class News extends Component {
                         <p>bob ross bob ross bob ross bob ross bob ross</p>
                         </Col>
                         <Col xs={12} sm={4} className="sidebar-section">
-                        <Image src="assets/person-3.jpg" />
+                        <Image src="assets/person-3.jpg" className="news-side-picture"/>
                         <p>bob ross bob ross bob ross bob ross bob ross</p>
                         <p>bob ross bob ross bob ross bob ross bob ross</p>
                         <p>bob ross bob ross bob ross bob ross bob ross</p>
